@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Teaching Space"
 theme = "hugo-tranquilpeak-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -10,13 +10,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "Teaching Materials"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
+    name = "Blog"
     url = "https://github.com/rstudio/blogdown"
 [[menu.main]]
-    name = "Twitter"
+    name = "About"
     url = "https://twitter.com/rstudio"
 
 [params]
